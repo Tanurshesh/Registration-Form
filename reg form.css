@@ -1,0 +1,67 @@
+*{
+    margin: 5;
+    padding: Auto;
+
+}
+body{
+    background-image:url(Idea\ new.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color:black;
+    font-family: varela round;
+    font-size: 1.1em;
+}
+
+.container{
+    text-align: center;
+    text-size-adjust: 100px;
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+    font-family: varela round;
+}
+
+.head{
+    font-size: 1.8em;
+    color: black;
+    
+    /* color: rgb(255, 255, 255); */
+}
+
+form{
+    background-color: rgba(27, 25, 25, 0.096);
+    padding-top: 10px;
+    display: block;
+    text-size-adjust: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    
+}
+
+form.box{
+    width: 98.5%;
+    height: 2.8em;
+    position: relative;
+    bottom: 10px;
+    border: 2px solid black;
+    border-radius: 100px;
+
+}
+
+button{
+    width: 30%;
+    height: 3em;
+    position: initial;
+    top: 11px;
+    background-color: rgb(94, 94, 64);
+    color: white;
+    cursor: pointer;
+    font-family: varela round;
+    margin-bottom: 10px;
+}
